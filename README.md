@@ -1,6 +1,6 @@
 
 
-                                                                         Hi 👋, I'm Rupesh Dash
+                                                              Hi 👋, I'm Rupesh Dash
                   
                            
 [![](https://visitcount.itsvg.in/api?id=rupeshdash009&icon=5&color=12)](https://visitcount.itsvg.in)
