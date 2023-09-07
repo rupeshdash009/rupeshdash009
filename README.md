@@ -1,8 +1,13 @@
-### Hi 👋, I'm Rupesh Dash
 
+
+                                            ### Hi 👋, I'm Rupesh Dash
+                  
+                           
+[![](https://visitcount.itsvg.in/api?id=rupeshdash009&icon=5&color=12)](https://visitcount.itsvg.in)
 - 🌱 I’m currently learning **Front-tend**
 - 📫 How to reach me?
   https://rupeshdash-portfolio.vercel.app/
+
 
 
 ## 🌐 Socials:
@@ -19,6 +24,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=rupeshdash009&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rupeshdash009&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
